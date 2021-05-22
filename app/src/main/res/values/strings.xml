@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts Categories</string>
+    <string name="friends_contacts">Friends Contacts</string>
+    <string name="family_contacts">Family Contacts</string>
+    <string name="favourite_contacts">Favourites</string>
+    <string name="all_contacts">All Contacts</string>
+</resources>
